@@ -3,7 +3,6 @@ package org.max.lesson3.seminar.accuweather;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.max.lesson3.home.accuweather.AccuweatherAbstractTest;
 import org.max.lesson3.home.accuweather.weather.Weather;
 
 import java.util.List;
